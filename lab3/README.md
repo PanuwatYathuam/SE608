@@ -28,6 +28,9 @@
 
 ---
 
+<img width="436" height="690" alt="image" src="https://github.com/user-attachments/assets/99762404-5153-48e0-a247-bc05f74c51c8" />
+
+
 ## 💻 Source Code
 
 ```dart
@@ -187,5 +190,3 @@ class FoodProduct extends Product {
   }
 }
 
-
-<img width="445" height="700" alt="image" src="https://github.com/user-attachments/assets/a22d484d-7dfc-4404-bc88-066043177380" />
