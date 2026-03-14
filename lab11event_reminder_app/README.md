@@ -33,14 +33,7 @@ lib/
 
 📸 ภาพตัวอย่างการทดสอบ
 
-1. หน้าหลักและการแสดงผล: [ใส่ภาพหน้า Home ที่มีกิจกรรมหลายๆ หมวดหมู่]
-![alt text](image-3.png)
-
-2. การเพิ่มกิจกรรม: [ใส่ภาพหน้า Add Event]
-![alt text](image.png)![alt text](image-1.png)
-
-3. ระบบ Validation: [ใส่ภาพตอนที่ขึ้นเตือนเรื่องเวลาผิด]
-![alt text](image.png)
-
-4. การลบข้อมูล: [ใส่ภาพหน้าจอตอนกดค้างลบกิจกรรม] (แตะค้างเพื่อลบ)
-![alt text](image-2.png)
+1. หน้าหลักและการแสดงผล: [![alt text](image-3.png)]
+2. การเพิ่มกิจกรรม: [![alt text](image.png)![alt text](image-1.png)]
+3. ระบบ Validation: [![alt text](image.png)]
+4. การลบข้อมูล(แตะค้างเพื่อลบ): [![alt text](image-2.png)]
