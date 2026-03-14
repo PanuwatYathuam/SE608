@@ -33,10 +33,17 @@ lib/
 
 📸 ภาพตัวอย่างการทดสอบ
 
-1. หน้าหลักและการแสดงผล: [![alt text](image-3.png)]
+1. หน้าหลักและการแสดงผล:
+![alt text](image-3.png)
 
-2. การเพิ่มกิจกรรม: [![alt text](image.png)![alt text](image-1.png)]
 
-3. ระบบ Validation: [![alt text](image.png)]
+2. การเพิ่มกิจกรรม
+![alt text](image.png)![alt text](image-1.png)
 
-4. การลบข้อมูล(แตะค้างเพื่อลบ): [![alt text](image-2.png)]
+
+3. ระบบ Validation:
+[alt text](image.png)
+
+
+4. การลบข้อมูล(แตะค้างเพื่อลบ)
+![alt text](image-2.png)
