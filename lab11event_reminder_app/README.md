@@ -29,7 +29,7 @@ lib/
 │   ├── state/       # EventProvider (State Management)
 │   └── screens/     # HomeScreen & AddEventScreen
 └── main.dart        # Entry Point & Provider Setup
-```text
+```
 
 📸 ภาพตัวอย่างการทดสอบ
 
